@@ -1,0 +1,6 @@
+2021-10-07 12:22:35,276 INFO Configured
+2021-10-07 12:23:04,031 DEBUG navigating to url
+2021-10-07 12:23:04,225 INFO Window is maximized
+2021-10-07 12:23:07,073 INFO Logged In Successfully
+2021-10-07 12:23:09,571 INFO Product successfully searched
+2021-10-07 12:23:12,149 INFO product added to wislist

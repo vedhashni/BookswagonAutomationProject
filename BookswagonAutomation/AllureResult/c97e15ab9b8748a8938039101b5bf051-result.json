@@ -1,0 +1,67 @@
+{
+  "uuid": "5b5aad07-99cf-41db-8e03-d76f1d5dd4f8-tr-0-1007",
+  "historyId": "BookswagonAutomation.BookswagonTests.TestMethodForLogout",
+  "fullName": "BookswagonAutomation.BookswagonTests.TestMethodForLogout",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NXT-LT036"
+    },
+    {
+      "name": "testClass",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestMethodForLogout"
+    },
+    {
+      "name": "package",
+      "value": "BookswagonAutomation.BookswagonTests"
+    }
+  ],
+  "links": [],
+  "name": "TestMethodForLogout",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "BookswagonAutomation.CustomException : webdriver unable to locate the element",
+    "trace": "   at BookswagonAutomation.ActionDo.DoAction.ToPlaceOrder() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 192\r\n   at BookswagonAutomation.ActionDo.DoAction.Logout() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 199\r\n   at BookswagonAutomation.BookswagonTests.TestMethodForLogout() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BookswagonTests.cs:line 98"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "TestMethodForLogout",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "BookswagonAutomation.CustomException : webdriver unable to locate the element",
+        "trace": "   at BookswagonAutomation.ActionDo.DoAction.ToPlaceOrder() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 192\r\n   at BookswagonAutomation.ActionDo.DoAction.Logout() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 199\r\n   at BookswagonAutomation.BookswagonTests.TestMethodForLogout() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BookswagonTests.cs:line 98"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "827c38f9acb546a6a71145a5a3622a10-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1633596555356,
+      "stop": 1633596594905
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1633596555355,
+  "stop": 1633596594913
+}

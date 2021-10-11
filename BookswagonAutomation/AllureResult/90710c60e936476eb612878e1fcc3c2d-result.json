@@ -1,0 +1,99 @@
+{
+  "uuid": "e526efd0-d742-411d-a271-cad2b1a2ea9b-tr-0-1005",
+  "historyId": "BookswagonAutomation.BookswagonTests.TestMethodToPlaceOrder",
+  "fullName": "BookswagonAutomation.BookswagonTests.TestMethodToPlaceOrder",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NXT-LT036"
+    },
+    {
+      "name": "testClass",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestMethodToPlaceOrder"
+    },
+    {
+      "name": "package",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "User"
+    },
+    {
+      "name": "suite",
+      "value": "PassedSuite"
+    },
+    {
+      "name": "subSuite",
+      "value": "NoAssert"
+    }
+  ],
+  "links": [
+    {
+      "name": "ISSUE-1",
+      "url": "ISSUE-1",
+      "type": "issue"
+    },
+    {
+      "name": "TMS-12",
+      "url": "TMS-12",
+      "type": "tms"
+    }
+  ],
+  "name": "TestMethodToPlaceOrder",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "BookswagonAutomation.CustomException : webdriver unable to loacte the element",
+    "trace": "   at BookswagonAutomation.ActionDo.DoAction.SearchBook() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 95\r\n   at BookswagonAutomation.ActionDo.DoAction.AddBookToWishlist() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 105\r\n   at BookswagonAutomation.ActionDo.DoAction.PlaceOrder() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 122\r\n   at BookswagonAutomation.BookswagonTests.TestMethodToPlaceOrder() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BookswagonTests.cs:line 84"
+  },
+  "stage": "finished",
+  "description": "toplaceorder\n",
+  "steps": [
+    {
+      "name": "TestMethodToPlaceOrder",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "BookswagonAutomation.CustomException : webdriver unable to loacte the element",
+        "trace": "   at BookswagonAutomation.ActionDo.DoAction.SearchBook() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 95\r\n   at BookswagonAutomation.ActionDo.DoAction.AddBookToWishlist() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 105\r\n   at BookswagonAutomation.ActionDo.DoAction.PlaceOrder() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 122\r\n   at BookswagonAutomation.BookswagonTests.TestMethodToPlaceOrder() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BookswagonTests.cs:line 84"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "96e8e6b51b3c409cac6d2813effdac0f-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1633520420478,
+      "stop": 1633520440041
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1633520420477,
+  "stop": 1633520440047
+}

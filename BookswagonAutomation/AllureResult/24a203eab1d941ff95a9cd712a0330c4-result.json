@@ -1,0 +1,64 @@
+{
+  "uuid": "69a90f61-0cb2-41f5-b4f1-9ac08f987688-tr-0-1005",
+  "historyId": "BookswagonAutomation.BookswagonTests.TestMethodToAddToCart",
+  "fullName": "BookswagonAutomation.BookswagonTests.TestMethodToAddToCart",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NXT-LT036"
+    },
+    {
+      "name": "testClass",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestMethodToAddToCart"
+    },
+    {
+      "name": "package",
+      "value": "BookswagonAutomation.BookswagonTests"
+    }
+  ],
+  "links": [],
+  "name": "TestMethodToAddToCart",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "TestMethodToAddToCart"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "TestMethodToAddToCart",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "972a52272f4441618ed43eaeeac5214f-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1633601075574,
+      "stop": 1633601098499
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1633601075573,
+  "stop": 1633601098503
+}

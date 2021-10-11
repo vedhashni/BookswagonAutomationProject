@@ -1,0 +1,67 @@
+{
+  "uuid": "a1019795-3a52-4e27-aac1-18ca03e25f26-tr-0-1005",
+  "historyId": "BookswagonAutomation.BookswagonTests.TestMethodToPlaceOrder",
+  "fullName": "BookswagonAutomation.BookswagonTests.TestMethodToPlaceOrder",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NXT-LT036"
+    },
+    {
+      "name": "testClass",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestMethodToPlaceOrder"
+    },
+    {
+      "name": "package",
+      "value": "BookswagonAutomation.BookswagonTests"
+    }
+  ],
+  "links": [],
+  "name": "TestMethodToPlaceOrder",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "BookswagonAutomation.CustomException : webdriver unable to loacte the element",
+    "trace": "   at BookswagonAutomation.ActionDo.DoAction.AddBookToWishlist() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 114\r\n   at BookswagonAutomation.ActionDo.DoAction.PlaceOrder() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 122\r\n   at BookswagonAutomation.BookswagonTests.TestMethodToPlaceOrder() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BookswagonTests.cs:line 77"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "TestMethodToPlaceOrder",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "BookswagonAutomation.CustomException : webdriver unable to loacte the element",
+        "trace": "   at BookswagonAutomation.ActionDo.DoAction.AddBookToWishlist() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 114\r\n   at BookswagonAutomation.ActionDo.DoAction.PlaceOrder() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 122\r\n   at BookswagonAutomation.BookswagonTests.TestMethodToPlaceOrder() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BookswagonTests.cs:line 77"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "213bc4f83a7840b4a59d08ba63e38f23-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1633508809508,
+      "stop": 1633508834368
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1633508809507,
+  "stop": 1633508834373
+}

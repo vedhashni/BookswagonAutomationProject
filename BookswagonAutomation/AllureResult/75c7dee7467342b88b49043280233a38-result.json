@@ -1,0 +1,99 @@
+{
+  "uuid": "a54362f3-6c5b-45bb-bf54-b4ebdfbdcb61-tr-0-1005",
+  "historyId": "BookswagonAutomation.BookswagonTests.TestMethodToPlaceOrder",
+  "fullName": "BookswagonAutomation.BookswagonTests.TestMethodToPlaceOrder",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NXT-LT036"
+    },
+    {
+      "name": "testClass",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestMethodToPlaceOrder"
+    },
+    {
+      "name": "package",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "User"
+    },
+    {
+      "name": "suite",
+      "value": "PassedSuite"
+    },
+    {
+      "name": "subSuite",
+      "value": "NoAssert"
+    }
+  ],
+  "links": [
+    {
+      "name": "ISSUE-1",
+      "url": "ISSUE-1",
+      "type": "issue"
+    },
+    {
+      "name": "TMS-12",
+      "url": "TMS-12",
+      "type": "tms"
+    }
+  ],
+  "name": "TestMethodToPlaceOrder",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "OpenQA.Selenium.NoSuchElementException : Could not find element by: By.XPath: //body/div[@id='colorbox']/div[@id='cboxWrapper']/div[2]/div[2]/div[1]/iframe[1]",
+    "trace": "   at SeleniumExtras.PageObjects.DefaultElementLocator.LocateElement(IEnumerable`1 bys)\r\n   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()\r\n   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(MethodInfo targetMethod, Object[] args)\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Reflection.DispatchProxyGenerator.Invoke(Object[] args)\r\n   at generatedProxy_1.Click()\r\n   at BookswagonAutomation.ActionDo.DoAction.PlaceOrder() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 129\r\n   at BookswagonAutomation.BookswagonTests.TestMethodToPlaceOrder() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BookswagonTests.cs:line 84"
+  },
+  "stage": "finished",
+  "description": "toplaceorder\n",
+  "steps": [
+    {
+      "name": "TestMethodToPlaceOrder",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "OpenQA.Selenium.NoSuchElementException : Could not find element by: By.XPath: //body/div[@id='colorbox']/div[@id='cboxWrapper']/div[2]/div[2]/div[1]/iframe[1]",
+        "trace": "   at SeleniumExtras.PageObjects.DefaultElementLocator.LocateElement(IEnumerable`1 bys)\r\n   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()\r\n   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(MethodInfo targetMethod, Object[] args)\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Reflection.DispatchProxyGenerator.Invoke(Object[] args)\r\n   at generatedProxy_1.Click()\r\n   at BookswagonAutomation.ActionDo.DoAction.PlaceOrder() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 129\r\n   at BookswagonAutomation.BookswagonTests.TestMethodToPlaceOrder() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BookswagonTests.cs:line 84"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "610325690af647d8aaba9f79d14f142a-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1633520484368,
+      "stop": 1633520537605
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1633520484368,
+  "stop": 1633520537611
+}

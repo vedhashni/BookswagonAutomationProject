@@ -1,0 +1,67 @@
+{
+  "uuid": "621aed70-e490-4a39-8ce7-2d64d593f1f6-tr-0-1005",
+  "historyId": "BookswagonAutomation.BookswagonTests.TestMethodToAddToCart",
+  "fullName": "BookswagonAutomation.BookswagonTests.TestMethodToAddToCart",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NXT-LT036"
+    },
+    {
+      "name": "testClass",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestMethodToAddToCart"
+    },
+    {
+      "name": "package",
+      "value": "BookswagonAutomation.BookswagonTests"
+    }
+  ],
+  "links": [],
+  "name": "TestMethodToAddToCart",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "System.Reflection.TargetInvocationException : Exception has been thrown by the target of an invocation.\r\n  ----> OpenQA.Selenium.StaleElementReferenceException : stale element reference: element is not attached to the page document\n  (Session info: chrome=94.0.4606.71)",
+    "trace": "   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)\r\n   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)\r\n   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)\r\n   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(MethodInfo targetMethod, Object[] args)\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Reflection.DispatchProxyGenerator.Invoke(Object[] args)\r\n   at generatedProxy_1.Click()\r\n   at BookswagonAutomation.ActionDo.DoAction.AddtoCart() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 141\r\n   at BookswagonAutomation.BookswagonTests.TestMethodToAddToCart() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BookswagonTests.cs:line 84\r\n--StaleElementReferenceException\r\n   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)\r\n   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Remote.RemoteWebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Remote.RemoteWebElement.Click()"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "TestMethodToAddToCart",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "System.Reflection.TargetInvocationException : Exception has been thrown by the target of an invocation.\r\n  ----> OpenQA.Selenium.StaleElementReferenceException : stale element reference: element is not attached to the page document\n  (Session info: chrome=94.0.4606.71)",
+        "trace": "   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)\r\n   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)\r\n   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)\r\n   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(MethodInfo targetMethod, Object[] args)\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Reflection.DispatchProxyGenerator.Invoke(Object[] args)\r\n   at generatedProxy_1.Click()\r\n   at BookswagonAutomation.ActionDo.DoAction.AddtoCart() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 141\r\n   at BookswagonAutomation.BookswagonTests.TestMethodToAddToCart() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BookswagonTests.cs:line 84\r\n--StaleElementReferenceException\r\n   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)\r\n   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Remote.RemoteWebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Remote.RemoteWebElement.Click()"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "b172cd472a8041d29a72f2ac5dd58bc1-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1633601019718,
+      "stop": 1633601039408
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1633601019718,
+  "stop": 1633601039417
+}

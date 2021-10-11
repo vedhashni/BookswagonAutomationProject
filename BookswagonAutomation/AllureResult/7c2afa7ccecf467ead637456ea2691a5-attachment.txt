@@ -1,0 +1,4 @@
+2021-10-06 12:56:04,126 INFO Configured
+2021-10-06 12:56:33,878 DEBUG navigating to url
+2021-10-06 12:56:34,211 INFO Window is maximized
+2021-10-06 12:56:37,498 INFO Logged In Successfully

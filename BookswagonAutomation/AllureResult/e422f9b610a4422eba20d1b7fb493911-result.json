@@ -1,0 +1,67 @@
+{
+  "uuid": "396c8270-de2c-40ae-8e5c-1294b9ed3075-tr-0-1005",
+  "historyId": "BookswagonAutomation.BookswagonTests.TestMethodToPlaceOrder",
+  "fullName": "BookswagonAutomation.BookswagonTests.TestMethodToPlaceOrder",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NXT-LT036"
+    },
+    {
+      "name": "testClass",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestMethodToPlaceOrder"
+    },
+    {
+      "name": "package",
+      "value": "BookswagonAutomation.BookswagonTests"
+    }
+  ],
+  "links": [],
+  "name": "TestMethodToPlaceOrder",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "OpenQA.Selenium.NoSuchElementException : Could not find element by: By.Name: BookCart$lvCart$ctrl0$txtQty",
+    "trace": "   at SeleniumExtras.PageObjects.DefaultElementLocator.LocateElement(IEnumerable`1 bys)\r\n   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()\r\n   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(MethodInfo targetMethod, Object[] args)\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Reflection.DispatchProxyGenerator.Invoke(Object[] args)\r\n   at generatedProxy_1.Click()\r\n   at BookswagonAutomation.ActionDo.DoAction.PlaceOrder() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 127\r\n   at BookswagonAutomation.BookswagonTests.TestMethodToPlaceOrder() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BookswagonTests.cs:line 77"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "TestMethodToPlaceOrder",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "OpenQA.Selenium.NoSuchElementException : Could not find element by: By.Name: BookCart$lvCart$ctrl0$txtQty",
+        "trace": "   at SeleniumExtras.PageObjects.DefaultElementLocator.LocateElement(IEnumerable`1 bys)\r\n   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()\r\n   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(MethodInfo targetMethod, Object[] args)\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Reflection.DispatchProxyGenerator.Invoke(Object[] args)\r\n   at generatedProxy_1.Click()\r\n   at BookswagonAutomation.ActionDo.DoAction.PlaceOrder() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 127\r\n   at BookswagonAutomation.BookswagonTests.TestMethodToPlaceOrder() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BookswagonTests.cs:line 77"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "79d508f2235b45cf8f95b5960bd882db-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1633516055959,
+      "stop": 1633516093828
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1633516055958,
+  "stop": 1633516093831
+}

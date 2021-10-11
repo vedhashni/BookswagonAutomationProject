@@ -1,0 +1,46 @@
+{
+  "uuid": "b90a807d-38db-473e-bed8-336b9191c3a6-tc-0-1000",
+  "name": "BookswagonAutomation.BookswagonTests.TestMethodForSearchProduct",
+  "children": [
+    "3539f466-ecf7-4bfb-8ed7-db6373c2c319-tr-0-1003"
+  ],
+  "befores": [
+    {
+      "name": "BrowserTest",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "BookswagonAutomation.CustomException : chrome session is not created",
+        "trace": "   at BookswagonAutomation.Base.BaseClass.BrowserTest() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\Base\\BaseClass.cs:line 42"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1633504755163,
+      "stop": 1633504755163
+    }
+  ],
+  "afters": [
+    {
+      "name": "TearDown",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1633504755163,
+      "stop": 1633504755163
+    }
+  ],
+  "links": [],
+  "start": 1633504751411,
+  "stop": 1633504755169
+}

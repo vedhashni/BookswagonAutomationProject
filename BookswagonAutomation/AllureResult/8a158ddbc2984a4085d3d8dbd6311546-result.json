@@ -1,0 +1,99 @@
+{
+  "uuid": "874006b6-bc65-4d55-a978-e3065fd3d93b-tr-0-1004",
+  "historyId": "BookswagonAutomation.BookswagonTests.TestMethodForAddProductToWishList",
+  "fullName": "BookswagonAutomation.BookswagonTests.TestMethodForAddProductToWishList",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NXT-LT036"
+    },
+    {
+      "name": "testClass",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestMethodForAddProductToWishList"
+    },
+    {
+      "name": "package",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "User"
+    },
+    {
+      "name": "suite",
+      "value": "PassedSuite"
+    },
+    {
+      "name": "subSuite",
+      "value": "NoAssert"
+    }
+  ],
+  "links": [
+    {
+      "name": "ISSUE-1",
+      "url": "ISSUE-1",
+      "type": "issue"
+    },
+    {
+      "name": "TMS-12",
+      "url": "TMS-12",
+      "type": "tms"
+    }
+  ],
+  "name": "TestMethodForAddProductToWishList",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "BookswagonAutomation.CustomException : webdriver unable to locate the element",
+    "trace": "   at BookswagonAutomation.ActionDo.DoAction.LoginIntoBookswagon() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 65\r\n   at BookswagonAutomation.ActionDo.DoAction.AddBookToWishlist() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 101\r\n   at BookswagonAutomation.BookswagonTests.TestMethodForAddProductToWishList() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BookswagonTests.cs:line 70"
+  },
+  "stage": "finished",
+  "description": "addtowishlist\n",
+  "steps": [
+    {
+      "name": "TestMethodForAddProductToWishList",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "BookswagonAutomation.CustomException : webdriver unable to locate the element",
+        "trace": "   at BookswagonAutomation.ActionDo.DoAction.LoginIntoBookswagon() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 65\r\n   at BookswagonAutomation.ActionDo.DoAction.AddBookToWishlist() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 101\r\n   at BookswagonAutomation.BookswagonTests.TestMethodForAddProductToWishList() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BookswagonTests.cs:line 70"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "4bb80ca48ce34985832e48d07edb1c3a-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1633505781677,
+      "stop": 1633505817556
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1633505781676,
+  "stop": 1633505817566
+}

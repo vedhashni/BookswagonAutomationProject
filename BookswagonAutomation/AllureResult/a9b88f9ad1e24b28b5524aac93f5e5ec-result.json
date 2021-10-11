@@ -1,0 +1,64 @@
+{
+  "uuid": "21c6308e-c266-498e-a7e9-65a669005768-tr-0-1006",
+  "historyId": "BookswagonAutomation.BookswagonTests.TestMethodForToPlaceOrder",
+  "fullName": "BookswagonAutomation.BookswagonTests.TestMethodForToPlaceOrder",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NXT-LT036"
+    },
+    {
+      "name": "testClass",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestMethodForToPlaceOrder"
+    },
+    {
+      "name": "package",
+      "value": "BookswagonAutomation.BookswagonTests"
+    }
+  ],
+  "links": [],
+  "name": "TestMethodForToPlaceOrder",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "TestMethodForToPlaceOrder"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "TestMethodForToPlaceOrder",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "936ed6b10e98441aa3dd840241601670-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1633593952354,
+      "stop": 1633593998154
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1633593952352,
+  "stop": 1633593998161
+}

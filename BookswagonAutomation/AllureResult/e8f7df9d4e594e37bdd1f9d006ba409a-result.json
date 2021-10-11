@@ -1,0 +1,67 @@
+{
+  "uuid": "29b1f19f-a4d9-49db-99dd-ff57b244ad9e-tr-0-1006",
+  "historyId": "BookswagonAutomation.BookswagonTests.TestMethodForToPlaceOrder",
+  "fullName": "BookswagonAutomation.BookswagonTests.TestMethodForToPlaceOrder",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NXT-LT036"
+    },
+    {
+      "name": "testClass",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestMethodForToPlaceOrder"
+    },
+    {
+      "name": "package",
+      "value": "BookswagonAutomation.BookswagonTests"
+    }
+  ],
+  "links": [],
+  "name": "TestMethodForToPlaceOrder",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Expected string length 41 but was 40. Strings differ at index 27.\r\n  Expected: \"https://www.bookswagon.com/checkout-login\"\r\n  But was:  \"https://www.bookswagon.com/wishlist.aspx\"\r\n  --------------------------------------^\r\n",
+    "trace": "   at BookswagonAutomation.ActionDo.DoAction.ToPlaceOrder() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 153\r\n   at BookswagonAutomation.BookswagonTests.TestMethodForToPlaceOrder() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BookswagonTests.cs:line 91\r\n"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "TestMethodForToPlaceOrder",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "  Expected string length 41 but was 40. Strings differ at index 27.\r\n  Expected: \"https://www.bookswagon.com/checkout-login\"\r\n  But was:  \"https://www.bookswagon.com/wishlist.aspx\"\r\n  --------------------------------------^\r\n",
+        "trace": "   at BookswagonAutomation.ActionDo.DoAction.ToPlaceOrder() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 153\r\n   at BookswagonAutomation.BookswagonTests.TestMethodForToPlaceOrder() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BookswagonTests.cs:line 91\r\n"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "33af550300c34ca3a9036cf537963b80-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1633591380601,
+      "stop": 1633591421224
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1633591380600,
+  "stop": 1633591421228
+}

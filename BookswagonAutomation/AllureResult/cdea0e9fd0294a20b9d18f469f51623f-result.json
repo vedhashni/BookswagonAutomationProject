@@ -1,0 +1,99 @@
+{
+  "uuid": "3539f466-ecf7-4bfb-8ed7-db6373c2c319-tr-0-1003",
+  "historyId": "BookswagonAutomation.BookswagonTests.TestMethodForSearchProduct",
+  "fullName": "BookswagonAutomation.BookswagonTests.TestMethodForSearchProduct",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NXT-LT036"
+    },
+    {
+      "name": "testClass",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestMethodForSearchProduct"
+    },
+    {
+      "name": "package",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "User"
+    },
+    {
+      "name": "suite",
+      "value": "PassedSuite"
+    },
+    {
+      "name": "subSuite",
+      "value": "NoAssert"
+    }
+  ],
+  "links": [
+    {
+      "name": "ISSUE-1",
+      "url": "ISSUE-1",
+      "type": "issue"
+    },
+    {
+      "name": "TMS-12",
+      "url": "TMS-12",
+      "type": "tms"
+    }
+  ],
+  "name": "TestMethodForSearchProduct",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "BookswagonAutomation.CustomException : chrome session is not created",
+    "trace": "   at BookswagonAutomation.Base.BaseClass.BrowserTest() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\Base\\BaseClass.cs:line 42"
+  },
+  "stage": "finished",
+  "description": "\nBrowserTest SetUp method failed\nsearchproduct\n",
+  "steps": [
+    {
+      "name": "TestMethodForSearchProduct skipped because of BrowserTest failure",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "BookswagonAutomation.CustomException : chrome session is not created",
+        "trace": "   at BookswagonAutomation.Base.BaseClass.BrowserTest() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\Base\\BaseClass.cs:line 42"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "be70abd327a04bd5b97141dd25029ba3-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1633504751411,
+      "stop": 1633504755166
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1633504751411,
+  "stop": 1633504755167
+}

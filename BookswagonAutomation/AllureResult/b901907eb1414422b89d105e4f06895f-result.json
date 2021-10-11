@@ -1,0 +1,99 @@
+{
+  "uuid": "4cd41ce4-cc09-4478-a8f2-055d341eb18b-tr-0-1004",
+  "historyId": "BookswagonAutomation.BookswagonTests.TestMethodForAddProductToWishList",
+  "fullName": "BookswagonAutomation.BookswagonTests.TestMethodForAddProductToWishList",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NXT-LT036"
+    },
+    {
+      "name": "testClass",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestMethodForAddProductToWishList"
+    },
+    {
+      "name": "package",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "User"
+    },
+    {
+      "name": "suite",
+      "value": "PassedSuite"
+    },
+    {
+      "name": "subSuite",
+      "value": "NoAssert"
+    }
+  ],
+  "links": [
+    {
+      "name": "ISSUE-1",
+      "url": "ISSUE-1",
+      "type": "issue"
+    },
+    {
+      "name": "TMS-12",
+      "url": "TMS-12",
+      "type": "tms"
+    }
+  ],
+  "name": "TestMethodForAddProductToWishList",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "System.IO.IOException : The process cannot access the file 'C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\DataForTesting\\ExcelDataForBookswagon.xlsx' because it is being used by another process.",
+    "trace": "   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)\r\n   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)\r\n   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)\r\n   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)\r\n   at System.IO.File.Open(String path, FileMode mode, FileAccess access)\r\n   at BookswagonAutomation.ActionDo.ExcelOperation.ExcelData(String filename) in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\ExcelOperation.cs:line 17\r\n   at BookswagonAutomation.ActionDo.ExcelOperation.PopulateFromExcel(String filename) in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\ExcelOperation.cs:line 40\r\n   at BookswagonAutomation.ActionDo.DoAction.AddBookToWishlist() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 103\r\n   at BookswagonAutomation.BookswagonTests.TestMethodForAddProductToWishList() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BookswagonTests.cs:line 70"
+  },
+  "stage": "finished",
+  "description": "addtowishlist\n",
+  "steps": [
+    {
+      "name": "TestMethodForAddProductToWishList",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "System.IO.IOException : The process cannot access the file 'C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\DataForTesting\\ExcelDataForBookswagon.xlsx' because it is being used by another process.",
+        "trace": "   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)\r\n   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)\r\n   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)\r\n   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)\r\n   at System.IO.File.Open(String path, FileMode mode, FileAccess access)\r\n   at BookswagonAutomation.ActionDo.ExcelOperation.ExcelData(String filename) in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\ExcelOperation.cs:line 17\r\n   at BookswagonAutomation.ActionDo.ExcelOperation.PopulateFromExcel(String filename) in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\ExcelOperation.cs:line 40\r\n   at BookswagonAutomation.ActionDo.DoAction.AddBookToWishlist() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\ActionDo\\DoAction.cs:line 103\r\n   at BookswagonAutomation.BookswagonTests.TestMethodForAddProductToWishList() in C:\\Users\\vedhashni.v\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BookswagonTests.cs:line 70"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "cf58e64b1a3f42b5a78630a519929a14-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1633505981738,
+      "stop": 1633505997112
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1633505981737,
+  "stop": 1633505997127
+}

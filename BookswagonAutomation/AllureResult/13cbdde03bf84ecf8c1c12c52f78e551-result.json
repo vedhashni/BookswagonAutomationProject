@@ -1,0 +1,96 @@
+{
+  "uuid": "3bf1b703-f967-4751-8e24-0f5383e5bf87-tr-0-1009",
+  "historyId": "BookswagonAutomation.BookswagonTests.TestMethodForInvalidSearch",
+  "fullName": "BookswagonAutomation.BookswagonTests.TestMethodForInvalidSearch",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NXT-LT036"
+    },
+    {
+      "name": "testClass",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestMethodForInvalidSearch"
+    },
+    {
+      "name": "package",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "User"
+    },
+    {
+      "name": "suite",
+      "value": "PassedSuite"
+    },
+    {
+      "name": "subSuite",
+      "value": "NoAssert"
+    }
+  ],
+  "links": [
+    {
+      "name": "ISSUE-1",
+      "url": "ISSUE-1",
+      "type": "issue"
+    },
+    {
+      "name": "TMS-12",
+      "url": "TMS-12",
+      "type": "tms"
+    }
+  ],
+  "name": "TestMethodForInvalidSearch",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "TestMethodForInvalidSearch"
+  },
+  "stage": "finished",
+  "description": "invalidsearch\n",
+  "steps": [
+    {
+      "name": "TestMethodForInvalidSearch",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "3139e83e8be0400199d10cdcd25d7d91-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1633601601227,
+      "stop": 1633601614598
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1633601601226,
+  "stop": 1633601614607
+}

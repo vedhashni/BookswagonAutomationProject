@@ -1,0 +1,595 @@
+2021-10-05 21:51:53,299 INFO Configured
+2021-10-05 21:52:03,128 DEBUG navigating to url
+2021-10-05 21:52:03,274 INFO Window is maximized
+2021-10-05 21:52:09,131 INFO Configured
+2021-10-05 21:52:31,781 DEBUG navigating to url
+2021-10-05 21:52:31,921 INFO Window is maximized
+2021-10-05 21:53:51,494 INFO Configured
+2021-10-05 21:54:19,608 DEBUG navigating to url
+2021-10-05 21:54:19,744 INFO Window is maximized
+2021-10-05 21:56:02,009 INFO Configured
+2021-10-05 21:56:30,058 DEBUG navigating to url
+2021-10-05 21:56:30,209 INFO Window is maximized
+2021-10-05 21:56:33,699 INFO Logged In Successfully
+2021-10-05 21:58:07,974 INFO Configured
+2021-10-05 21:58:36,516 DEBUG navigating to url
+2021-10-05 21:58:36,694 INFO Window is maximized
+2021-10-05 21:58:40,049 INFO Logged In Successfully
+2021-10-05 22:14:59,116 INFO Configured
+2021-10-05 22:15:27,225 DEBUG navigating to url
+2021-10-05 22:15:27,361 INFO Window is maximized
+2021-10-05 22:15:30,092 INFO Logged In Successfully
+2021-10-05 22:15:32,507 INFO Product successfully searched
+2021-10-05 22:42:36,729 INFO Configured
+2021-10-05 22:43:06,024 DEBUG navigating to url
+2021-10-05 22:43:06,205 INFO Window is maximized
+2021-10-05 22:43:08,826 INFO Logged In Successfully
+2021-10-05 22:43:10,764 INFO Product successfully searched
+2021-10-05 22:48:12,901 INFO Configured
+2021-10-05 22:48:42,500 DEBUG navigating to url
+2021-10-05 22:48:42,666 INFO Window is maximized
+2021-10-05 22:48:45,682 INFO Logged In Successfully
+2021-10-05 22:48:48,304 INFO Product successfully searched
+2021-10-05 22:49:33,596 INFO Configured
+2021-10-05 22:50:03,386 DEBUG navigating to url
+2021-10-05 22:50:03,515 INFO Window is maximized
+2021-10-05 22:50:06,700 INFO Logged In Successfully
+2021-10-05 22:50:09,725 INFO Product successfully searched
+2021-10-05 22:52:20,855 INFO Configured
+2021-10-05 22:52:36,136 DEBUG navigating to url
+2021-10-05 22:52:36,301 INFO Window is maximized
+2021-10-05 22:52:39,651 INFO Logged In Successfully
+2021-10-05 22:52:43,631 INFO Product successfully searched
+2021-10-06 12:26:37,911 INFO Configured
+2021-10-06 12:27:03,421 DEBUG navigating to url
+2021-10-06 12:27:03,589 INFO Window is maximized
+2021-10-06 12:27:06,239 INFO Logged In Successfully
+2021-10-06 12:28:48,218 INFO Configured
+2021-10-06 12:29:16,631 DEBUG navigating to url
+2021-10-06 12:29:16,902 INFO Window is maximized
+2021-10-06 12:29:20,088 INFO Logged In Successfully
+2021-10-06 12:40:13,143 INFO Configured
+2021-10-06 12:40:38,758 DEBUG navigating to url
+2021-10-06 12:40:39,175 INFO Window is maximized
+2021-10-06 12:48:07,683 INFO Configured
+2021-10-06 12:48:36,421 DEBUG navigating to url
+2021-10-06 12:48:36,724 INFO Window is maximized
+2021-10-06 12:48:39,400 INFO Logged In Successfully
+2021-10-06 12:48:40,136 INFO Configured
+2021-10-06 12:49:09,406 DEBUG navigating to url
+2021-10-06 12:49:09,741 INFO Window is maximized
+2021-10-06 12:49:11,422 INFO Configured
+2021-10-06 12:49:15,185 INFO Configured
+2021-10-06 12:50:26,320 INFO Configured
+2021-10-06 12:50:55,227 DEBUG navigating to url
+2021-10-06 12:50:55,451 INFO Window is maximized
+2021-10-06 12:50:58,242 INFO Logged In Successfully
+2021-10-06 12:50:59,124 INFO Configured
+2021-10-06 12:51:16,593 DEBUG navigating to url
+2021-10-06 12:51:17,006 INFO Window is maximized
+2021-10-06 12:51:20,303 INFO Logged In Successfully
+2021-10-06 12:51:20,930 INFO Configured
+2021-10-06 12:51:36,935 DEBUG navigating to url
+2021-10-06 12:51:37,214 INFO Window is maximized
+2021-10-06 12:51:40,579 INFO Logged In Successfully
+2021-10-06 12:51:41,116 INFO Configured
+2021-10-06 12:52:10,402 DEBUG navigating to url
+2021-10-06 12:52:10,811 INFO Window is maximized
+2021-10-06 12:54:53,509 INFO Configured
+2021-10-06 12:55:01,744 INFO Configured
+2021-10-06 12:55:13,013 DEBUG navigating to url
+2021-10-06 12:55:13,241 INFO Window is maximized
+2021-10-06 12:55:16,513 INFO Logged In Successfully
+2021-10-06 12:56:04,126 INFO Configured
+2021-10-06 12:56:33,878 DEBUG navigating to url
+2021-10-06 12:56:34,211 INFO Window is maximized
+2021-10-06 12:56:37,498 INFO Logged In Successfully
+2021-10-06 12:58:56,432 INFO Configured
+2021-10-06 12:59:25,279 DEBUG navigating to url
+2021-10-06 12:59:25,519 INFO Window is maximized
+2021-10-06 12:59:28,118 INFO Logged In Successfully
+2021-10-06 13:00:04,299 INFO Configured
+2021-10-06 13:00:33,571 DEBUG navigating to url
+2021-10-06 13:00:33,935 INFO Window is maximized
+2021-10-06 13:00:36,732 INFO Logged In Successfully
+2021-10-06 13:02:44,196 INFO Configured
+2021-10-06 13:03:13,294 DEBUG navigating to url
+2021-10-06 13:03:13,510 INFO Window is maximized
+2021-10-06 13:03:16,349 INFO Product successfully searched
+2021-10-06 13:04:46,842 INFO Configured
+2021-10-06 13:05:15,183 DEBUG navigating to url
+2021-10-06 13:05:15,449 INFO Window is maximized
+2021-10-06 13:05:18,212 INFO Product successfully searched
+2021-10-06 13:06:21,845 INFO Configured
+2021-10-06 13:06:50,511 DEBUG navigating to url
+2021-10-06 13:06:50,735 INFO Window is maximized
+2021-10-06 13:06:53,602 INFO Product successfully searched
+2021-10-06 13:09:41,910 INFO Configured
+2021-10-06 13:09:50,048 DEBUG navigating to url
+2021-10-06 13:09:50,281 INFO Window is maximized
+2021-10-06 13:09:53,313 INFO Product successfully searched
+2021-10-06 13:15:01,349 INFO Configured
+2021-10-06 13:15:29,915 DEBUG navigating to url
+2021-10-06 13:15:30,079 INFO Window is maximized
+2021-10-06 13:15:32,569 INFO Logged In Successfully
+2021-10-06 13:15:35,410 INFO Product successfully searched
+2021-10-06 13:39:23,626 INFO Configured
+2021-10-06 13:39:59,770 DEBUG navigating to url
+2021-10-06 13:39:59,932 INFO Window is maximized
+2021-10-06 13:40:02,737 INFO Logged In Successfully
+2021-10-06 13:40:05,384 INFO Product successfully searched
+2021-10-06 13:40:53,240 INFO Configured
+2021-10-06 13:41:22,301 DEBUG navigating to url
+2021-10-06 13:41:22,450 INFO Window is maximized
+2021-10-06 13:41:25,055 INFO Logged In Successfully
+2021-10-06 13:41:28,363 INFO Product successfully searched
+2021-10-06 13:42:38,190 INFO Configured
+2021-10-06 13:43:07,572 DEBUG navigating to url
+2021-10-06 13:43:07,774 INFO Window is maximized
+2021-10-06 13:43:10,690 INFO Logged In Successfully
+2021-10-06 13:43:13,211 INFO Product successfully searched
+2021-10-06 13:44:53,839 INFO Configured
+2021-10-06 13:45:21,020 DEBUG navigating to url
+2021-10-06 13:45:21,204 INFO Window is maximized
+2021-10-06 13:45:24,092 INFO Logged In Successfully
+2021-10-06 13:45:27,264 INFO Product successfully searched
+2021-10-06 13:45:30,090 INFO product added to wislist
+2021-10-06 13:55:34,658 INFO Configured
+2021-10-06 13:56:04,006 DEBUG navigating to url
+2021-10-06 13:56:04,146 INFO Window is maximized
+2021-10-06 13:56:07,489 INFO Logged In Successfully
+2021-10-06 13:56:10,275 INFO Product successfully searched
+2021-10-06 13:56:13,094 INFO product added to wislist
+2021-10-06 13:56:49,665 INFO Configured
+2021-10-06 13:57:05,660 DEBUG navigating to url
+2021-10-06 13:57:05,860 INFO Window is maximized
+2021-10-06 13:57:08,429 INFO Logged In Successfully
+2021-10-06 13:57:10,418 INFO Product successfully searched
+2021-10-06 13:57:13,848 INFO product added to wislist
+2021-10-06 13:57:34,817 INFO Configured
+2021-10-06 13:58:03,115 DEBUG navigating to url
+2021-10-06 13:58:03,279 INFO Window is maximized
+2021-10-06 13:58:05,756 INFO Logged In Successfully
+2021-10-06 13:58:08,506 INFO Product successfully searched
+2021-10-06 13:58:11,706 INFO product added to wislist
+2021-10-06 13:58:25,203 INFO Configured
+2021-10-06 13:58:53,215 DEBUG navigating to url
+2021-10-06 13:58:53,387 INFO Window is maximized
+2021-10-06 13:58:55,865 INFO Logged In Successfully
+2021-10-06 13:58:58,251 INFO Product successfully searched
+2021-10-06 13:59:01,045 INFO product added to wislist
+2021-10-06 14:01:57,671 INFO Configured
+2021-10-06 14:02:26,538 DEBUG navigating to url
+2021-10-06 14:02:26,781 INFO Window is maximized
+2021-10-06 14:02:29,547 INFO Logged In Successfully
+2021-10-06 14:02:32,034 INFO Product successfully searched
+2021-10-06 14:02:35,218 INFO product added to wislist
+2021-10-06 14:03:49,279 INFO Configured
+2021-10-06 14:04:17,586 DEBUG navigating to url
+2021-10-06 14:04:17,756 INFO Window is maximized
+2021-10-06 14:04:20,530 INFO Logged In Successfully
+2021-10-06 14:04:22,718 INFO Product successfully searched
+2021-10-06 14:04:26,977 INFO product added to wislist
+2021-10-06 14:07:24,008 INFO Configured
+2021-10-06 14:07:52,234 DEBUG navigating to url
+2021-10-06 14:07:52,425 INFO Window is maximized
+2021-10-06 14:07:55,054 INFO Logged In Successfully
+2021-10-06 14:07:57,378 INFO Product successfully searched
+2021-10-06 14:08:01,055 INFO product added to wislist
+2021-10-06 14:08:31,005 INFO Configured
+2021-10-06 14:09:00,126 DEBUG navigating to url
+2021-10-06 14:09:00,290 INFO Window is maximized
+2021-10-06 14:09:03,284 INFO Logged In Successfully
+2021-10-06 14:09:05,586 INFO Product successfully searched
+2021-10-06 14:09:07,975 INFO product added to wislist
+2021-10-06 14:13:22,219 INFO Configured
+2021-10-06 14:13:50,754 DEBUG navigating to url
+2021-10-06 14:13:50,937 INFO Window is maximized
+2021-10-06 14:13:53,526 INFO Logged In Successfully
+2021-10-06 14:13:56,279 INFO Product successfully searched
+2021-10-06 14:13:58,986 INFO product added to wislist
+2021-10-06 14:15:00,618 INFO Configured
+2021-10-06 14:15:21,348 DEBUG navigating to url
+2021-10-06 14:15:21,525 INFO Window is maximized
+2021-10-06 14:15:24,167 INFO Logged In Successfully
+2021-10-06 14:15:33,300 INFO Product successfully searched
+2021-10-06 14:15:36,898 INFO product added to wislist
+2021-10-06 15:38:23,828 INFO Configured
+2021-10-06 15:38:53,162 DEBUG navigating to url
+2021-10-06 15:38:53,326 INFO Window is maximized
+2021-10-06 15:40:09,701 INFO Configured
+2021-10-06 15:40:17,786 DEBUG navigating to url
+2021-10-06 15:40:17,976 INFO Window is maximized
+2021-10-06 15:56:43,295 INFO Configured
+2021-10-06 15:57:17,763 DEBUG navigating to url
+2021-10-06 15:57:17,923 INFO Window is maximized
+2021-10-06 15:57:36,103 INFO Configured
+2021-10-06 15:58:04,398 DEBUG navigating to url
+2021-10-06 15:58:04,593 INFO Window is maximized
+2021-10-06 15:58:07,332 INFO Logged In Successfully
+2021-10-06 15:58:09,821 INFO Product successfully searched
+2021-10-06 15:58:12,367 INFO product added to wislist
+2021-10-06 16:01:51,280 INFO Configured
+2021-10-06 16:02:02,663 DEBUG navigating to url
+2021-10-06 16:02:02,916 INFO Window is maximized
+2021-10-06 16:02:06,255 INFO Logged In Successfully
+2021-10-06 16:02:09,375 INFO Product successfully searched
+2021-10-06 16:02:12,246 INFO product added to wislist
+2021-10-06 16:02:58,714 INFO Configured
+2021-10-06 16:03:34,056 DEBUG navigating to url
+2021-10-06 16:03:34,330 INFO Window is maximized
+2021-10-06 16:03:37,494 INFO Logged In Successfully
+2021-10-06 16:03:39,879 INFO Product successfully searched
+2021-10-06 16:03:42,571 INFO product added to wislist
+2021-10-06 16:04:32,824 INFO Configured
+2021-10-06 16:05:01,212 DEBUG navigating to url
+2021-10-06 16:05:01,407 INFO Window is maximized
+2021-10-06 16:05:04,224 INFO Logged In Successfully
+2021-10-06 16:05:06,824 INFO Product successfully searched
+2021-10-06 16:05:09,119 INFO product added to wislist
+2021-10-06 16:15:50,465 INFO Configured
+2021-10-06 16:16:19,403 DEBUG navigating to url
+2021-10-06 16:16:19,612 INFO Window is maximized
+2021-10-06 16:16:22,483 INFO Logged In Successfully
+2021-10-06 17:08:49,550 INFO Configured
+2021-10-06 17:09:18,765 DEBUG navigating to url
+2021-10-06 17:09:18,978 INFO Window is maximized
+2021-10-06 17:09:21,932 INFO Logged In Successfully
+2021-10-06 17:10:20,676 INFO Configured
+2021-10-06 17:10:35,882 DEBUG navigating to url
+2021-10-06 17:10:36,133 INFO Window is maximized
+2021-10-06 17:10:39,252 INFO Logged In Successfully
+2021-10-06 17:11:24,539 INFO Configured
+2021-10-06 17:11:53,023 DEBUG navigating to url
+2021-10-06 17:11:53,243 INFO Window is maximized
+2021-10-06 17:11:56,213 INFO Logged In Successfully
+2021-10-06 17:12:10,706 INFO Product successfully searched
+2021-10-06 17:12:15,771 INFO product added to wislist
+2021-10-06 17:12:47,159 INFO Configured
+2021-10-06 17:13:16,276 DEBUG navigating to url
+2021-10-06 17:13:16,514 INFO Window is maximized
+2021-10-06 17:13:19,818 INFO Logged In Successfully
+2021-10-06 17:13:22,804 INFO Product successfully searched
+2021-10-06 17:13:26,093 INFO product added to wislist
+2021-10-06 17:14:14,471 INFO Configured
+2021-10-06 17:14:43,377 DEBUG navigating to url
+2021-10-06 17:14:43,649 INFO Window is maximized
+2021-10-06 17:14:46,481 INFO Logged In Successfully
+2021-10-06 17:14:49,352 INFO Product successfully searched
+2021-10-06 17:14:52,286 INFO product added to wislist
+2021-10-06 17:19:49,025 INFO Configured
+2021-10-06 17:20:18,260 DEBUG navigating to url
+2021-10-06 17:20:18,450 INFO Window is maximized
+2021-10-06 17:20:21,813 INFO Logged In Successfully
+2021-10-06 17:20:25,431 INFO Product successfully searched
+2021-10-06 17:20:28,991 INFO product added to wislist
+2021-10-06 17:21:01,923 INFO Configured
+2021-10-06 17:21:32,477 DEBUG navigating to url
+2021-10-06 17:21:32,740 INFO Window is maximized
+2021-10-06 17:21:36,408 INFO Logged In Successfully
+2021-10-06 17:21:41,346 INFO Product successfully searched
+2021-10-06 17:21:46,944 INFO product added to wislist
+2021-10-06 17:32:34,243 INFO Configured
+2021-10-06 17:33:03,099 DEBUG navigating to url
+2021-10-06 17:33:03,295 INFO Window is maximized
+2021-10-06 17:33:06,168 INFO Logged In Successfully
+2021-10-06 17:33:08,845 INFO Product successfully searched
+2021-10-06 17:33:12,457 INFO product added to wislist
+2021-10-06 20:54:15,327 INFO Configured
+2021-10-06 20:54:44,091 DEBUG navigating to url
+2021-10-06 20:54:44,255 INFO Window is maximized
+2021-10-06 20:54:47,094 INFO Logged In Successfully
+2021-10-06 20:54:49,878 INFO Product successfully searched
+2021-10-06 20:54:53,039 INFO product added to wislist
+2021-10-06 20:55:56,212 INFO Configured
+2021-10-06 20:56:07,670 DEBUG navigating to url
+2021-10-06 20:56:07,843 INFO Window is maximized
+2021-10-06 20:56:10,619 INFO Logged In Successfully
+2021-10-06 20:56:14,987 INFO Product successfully searched
+2021-10-06 20:56:17,000 INFO product added to wislist
+2021-10-06 20:57:30,507 INFO Configured
+2021-10-06 20:57:58,860 DEBUG navigating to url
+2021-10-06 20:57:59,083 INFO Window is maximized
+2021-10-06 20:58:01,827 INFO Logged In Successfully
+2021-10-06 20:58:04,300 INFO Product successfully searched
+2021-10-06 20:58:06,904 INFO product added to wislist
+2021-10-06 20:59:05,150 INFO Configured
+2021-10-06 20:59:33,751 DEBUG navigating to url
+2021-10-06 20:59:33,906 INFO Window is maximized
+2021-10-06 20:59:36,790 INFO Logged In Successfully
+2021-10-06 20:59:39,254 INFO Product successfully searched
+2021-10-06 20:59:44,203 INFO product added to wislist
+2021-10-06 21:00:32,846 INFO Configured
+2021-10-06 21:01:00,377 DEBUG navigating to url
+2021-10-06 21:01:00,558 INFO Window is maximized
+2021-10-06 21:01:03,330 INFO Logged In Successfully
+2021-10-06 21:01:05,919 INFO Product successfully searched
+2021-10-06 21:01:08,790 INFO product added to wislist
+2021-10-06 21:01:55,829 INFO Configured
+2021-10-06 21:02:23,892 DEBUG navigating to url
+2021-10-06 21:02:24,133 INFO Window is maximized
+2021-10-06 21:02:27,293 INFO Logged In Successfully
+2021-10-06 21:02:32,772 INFO Product successfully searched
+2021-10-06 21:02:35,541 INFO product added to wislist
+2021-10-06 21:03:57,822 INFO Configured
+2021-10-06 21:04:26,055 DEBUG navigating to url
+2021-10-06 21:04:26,318 INFO Window is maximized
+2021-10-06 21:04:29,080 INFO Logged In Successfully
+2021-10-06 21:04:31,712 INFO Product successfully searched
+2021-10-06 21:04:34,136 INFO product added to wislist
+2021-10-06 21:05:55,213 INFO Configured
+2021-10-06 21:06:23,420 DEBUG navigating to url
+2021-10-06 21:06:23,597 INFO Window is maximized
+2021-10-06 21:06:26,089 INFO Logged In Successfully
+2021-10-06 21:06:28,889 INFO Product successfully searched
+2021-10-06 21:06:31,206 INFO product added to wislist
+2021-10-06 21:07:58,450 INFO Configured
+2021-10-06 21:08:33,206 DEBUG navigating to url
+2021-10-06 21:08:33,354 INFO Window is maximized
+2021-10-06 21:08:35,914 INFO Logged In Successfully
+2021-10-06 21:08:38,699 INFO Product successfully searched
+2021-10-06 21:08:40,946 INFO product added to wislist
+2021-10-06 21:09:50,143 INFO Configured
+2021-10-06 21:10:13,797 DEBUG navigating to url
+2021-10-06 21:10:13,991 INFO Window is maximized
+2021-10-06 21:10:17,102 INFO Logged In Successfully
+2021-10-06 21:10:19,536 INFO Product successfully searched
+2021-10-06 21:10:21,910 INFO product added to wislist
+2021-10-06 21:14:58,547 INFO Configured
+2021-10-06 21:15:13,134 DEBUG navigating to url
+2021-10-06 21:15:13,339 INFO Window is maximized
+2021-10-06 21:15:16,503 INFO Logged In Successfully
+2021-10-06 21:15:19,312 INFO Product successfully searched
+2021-10-06 21:15:22,610 INFO product added to wislist
+2021-10-06 21:16:38,967 INFO Configured
+2021-10-06 21:17:11,665 DEBUG navigating to url
+2021-10-06 21:17:11,819 INFO Window is maximized
+2021-10-06 21:17:14,651 INFO Logged In Successfully
+2021-10-06 21:17:17,100 INFO Product successfully searched
+2021-10-06 21:17:19,465 INFO product added to wislist
+2021-10-06 21:19:07,392 INFO Configured
+2021-10-06 21:19:35,963 DEBUG navigating to url
+2021-10-06 21:19:36,195 INFO Window is maximized
+2021-10-06 21:19:39,030 INFO Logged In Successfully
+2021-10-06 21:19:41,551 INFO Product successfully searched
+2021-10-06 21:19:44,297 INFO product added to wislist
+2021-10-06 21:22:23,129 INFO Configured
+2021-10-06 21:22:51,452 DEBUG navigating to url
+2021-10-06 21:22:51,636 INFO Window is maximized
+2021-10-06 21:22:55,205 INFO Logged In Successfully
+2021-10-06 21:22:58,434 INFO Product successfully searched
+2021-10-06 21:23:01,166 INFO product added to wislist
+2021-10-06 21:56:48,736 INFO Configured
+2021-10-06 21:57:05,971 DEBUG navigating to url
+2021-10-06 21:57:06,192 INFO Window is maximized
+2021-10-06 21:57:09,255 INFO Logged In Successfully
+2021-10-06 21:57:11,636 INFO Product successfully searched
+2021-10-06 21:57:14,503 INFO product added to wislist
+2021-10-07 12:08:29,018 INFO Configured
+2021-10-07 12:08:46,101 DEBUG navigating to url
+2021-10-07 12:08:46,249 INFO Window is maximized
+2021-10-07 12:08:49,459 INFO Logged In Successfully
+2021-10-07 12:08:53,680 INFO Product successfully searched
+2021-10-07 12:08:59,233 INFO product added to wislist
+2021-10-07 12:10:54,359 INFO Configured
+2021-10-07 12:11:22,804 DEBUG navigating to url
+2021-10-07 12:11:23,019 INFO Window is maximized
+2021-10-07 12:11:26,081 INFO Logged In Successfully
+2021-10-07 12:11:28,706 INFO Product successfully searched
+2021-10-07 12:11:31,270 INFO product added to wislist
+2021-10-07 12:13:48,379 INFO Configured
+2021-10-07 12:14:17,109 DEBUG navigating to url
+2021-10-07 12:14:17,269 INFO Window is maximized
+2021-10-07 12:14:20,113 INFO Logged In Successfully
+2021-10-07 12:14:23,167 INFO Product successfully searched
+2021-10-07 12:14:25,647 INFO product added to wislist
+2021-10-07 12:15:31,818 INFO Configured
+2021-10-07 12:15:41,144 DEBUG navigating to url
+2021-10-07 12:15:41,321 INFO Window is maximized
+2021-10-07 12:15:44,139 INFO Logged In Successfully
+2021-10-07 12:15:46,632 INFO Product successfully searched
+2021-10-07 12:15:49,270 INFO product added to wislist
+2021-10-07 12:17:35,707 INFO Configured
+2021-10-07 12:17:50,695 DEBUG navigating to url
+2021-10-07 12:17:50,882 INFO Window is maximized
+2021-10-07 12:17:53,703 INFO Logged In Successfully
+2021-10-07 12:17:56,639 INFO Product successfully searched
+2021-10-07 12:17:59,913 INFO product added to wislist
+2021-10-07 12:20:22,742 INFO Configured
+2021-10-07 12:20:46,064 DEBUG navigating to url
+2021-10-07 12:20:46,231 INFO Window is maximized
+2021-10-07 12:20:48,959 INFO Logged In Successfully
+2021-10-07 12:20:52,059 INFO Product successfully searched
+2021-10-07 12:20:54,647 INFO product added to wislist
+2021-10-07 12:21:23,610 INFO Configured
+2021-10-07 12:21:52,538 DEBUG navigating to url
+2021-10-07 12:21:52,693 INFO Window is maximized
+2021-10-07 12:21:55,322 INFO Logged In Successfully
+2021-10-07 12:21:57,973 INFO Product successfully searched
+2021-10-07 12:22:01,203 INFO product added to wislist
+2021-10-07 12:22:35,276 INFO Configured
+2021-10-07 12:23:04,031 DEBUG navigating to url
+2021-10-07 12:23:04,225 INFO Window is maximized
+2021-10-07 12:23:07,073 INFO Logged In Successfully
+2021-10-07 12:23:09,571 INFO Product successfully searched
+2021-10-07 12:23:12,149 INFO product added to wislist
+2021-10-07 12:25:05,151 INFO Configured
+2021-10-07 12:25:34,327 DEBUG navigating to url
+2021-10-07 12:25:34,506 INFO Window is maximized
+2021-10-07 12:25:37,347 INFO Logged In Successfully
+2021-10-07 12:25:40,648 INFO Product successfully searched
+2021-10-07 12:25:43,859 INFO product added to wislist
+2021-10-07 12:29:38,918 INFO Configured
+2021-10-07 12:30:07,268 DEBUG navigating to url
+2021-10-07 12:30:07,443 INFO Window is maximized
+2021-10-07 12:30:10,885 INFO Logged In Successfully
+2021-10-07 12:30:13,610 INFO Product successfully searched
+2021-10-07 12:30:16,121 INFO product added to wislist
+2021-10-07 12:53:00,913 INFO Configured
+2021-10-07 12:53:29,942 DEBUG navigating to url
+2021-10-07 12:53:30,165 INFO Window is maximized
+2021-10-07 12:53:33,793 INFO Logged In Successfully
+2021-10-07 12:53:36,348 INFO Product successfully searched
+2021-10-07 12:53:38,672 INFO product added to wislist
+2021-10-07 12:54:55,516 INFO Configured
+2021-10-07 12:55:03,955 DEBUG navigating to url
+2021-10-07 12:55:04,102 INFO Window is maximized
+2021-10-07 12:55:06,971 INFO Logged In Successfully
+2021-10-07 12:55:09,707 INFO Product successfully searched
+2021-10-07 12:55:12,625 INFO product added to wislist
+2021-10-07 12:55:45,995 INFO Configured
+2021-10-07 12:56:20,753 DEBUG navigating to url
+2021-10-07 12:56:20,946 INFO Window is maximized
+2021-10-07 12:56:23,994 INFO Logged In Successfully
+2021-10-07 12:56:26,572 INFO Product successfully searched
+2021-10-07 12:56:29,777 INFO product added to wislist
+2021-10-07 12:57:04,195 INFO Configured
+2021-10-07 12:57:18,202 DEBUG navigating to url
+2021-10-07 12:57:18,389 INFO Window is maximized
+2021-10-07 12:57:21,147 INFO Logged In Successfully
+2021-10-07 12:57:23,383 INFO Product successfully searched
+2021-10-07 12:57:25,474 INFO product added to wislist
+2021-10-07 13:32:14,308 INFO Configured
+2021-10-07 13:32:43,432 DEBUG navigating to url
+2021-10-07 13:32:43,629 INFO Window is maximized
+2021-10-07 13:32:46,630 INFO Logged In Successfully
+2021-10-07 13:32:49,228 INFO Product successfully searched
+2021-10-07 13:32:52,237 INFO product added to wislist
+2021-10-07 13:33:57,954 INFO Configured
+2021-10-07 13:34:26,356 DEBUG navigating to url
+2021-10-07 13:34:26,535 INFO Window is maximized
+2021-10-07 13:34:29,745 INFO Logged In Successfully
+2021-10-07 13:34:31,963 INFO Product successfully searched
+2021-10-07 13:34:34,524 INFO product added to wislist
+2021-10-07 13:35:01,678 INFO Configured
+2021-10-07 13:35:10,468 DEBUG navigating to url
+2021-10-07 13:35:10,628 INFO Window is maximized
+2021-10-07 13:35:13,853 INFO Logged In Successfully
+2021-10-07 13:35:16,808 INFO Product successfully searched
+2021-10-07 13:35:20,005 INFO product added to wislist
+2021-10-07 13:35:52,519 INFO Configured
+2021-10-07 13:36:20,918 DEBUG navigating to url
+2021-10-07 13:36:21,209 INFO Window is maximized
+2021-10-07 13:36:24,693 INFO Logged In Successfully
+2021-10-07 13:36:27,912 INFO Product successfully searched
+2021-10-07 13:36:31,117 INFO product added to wislist
+2021-10-07 13:37:38,423 INFO Configured
+2021-10-07 13:37:46,230 DEBUG navigating to url
+2021-10-07 13:37:46,384 INFO Window is maximized
+2021-10-07 13:37:49,073 INFO Logged In Successfully
+2021-10-07 13:37:51,834 INFO Product successfully searched
+2021-10-07 13:37:54,806 INFO product added to wislist
+2021-10-07 13:38:14,495 INFO Configured
+2021-10-07 13:38:43,026 DEBUG navigating to url
+2021-10-07 13:38:43,198 INFO Window is maximized
+2021-10-07 13:38:46,414 INFO Logged In Successfully
+2021-10-07 13:38:49,649 INFO Product successfully searched
+2021-10-07 13:38:52,304 INFO product added to wislist
+2021-10-07 13:42:53,490 INFO Configured
+2021-10-07 13:43:24,941 DEBUG navigating to url
+2021-10-07 13:43:25,149 INFO Window is maximized
+2021-10-07 13:43:28,474 INFO Logged In Successfully
+2021-10-07 13:43:31,391 INFO Product successfully searched
+2021-10-07 13:43:33,857 INFO product added to wislist
+2021-10-07 14:00:19,700 INFO Configured
+2021-10-07 14:00:48,253 DEBUG navigating to url
+2021-10-07 14:00:48,448 INFO Window is maximized
+2021-10-07 14:00:52,237 INFO Logged In Successfully
+2021-10-07 14:00:54,993 INFO Product successfully searched
+2021-10-07 14:00:57,867 INFO product added to wislist
+2021-10-07 14:17:14,080 INFO Configured
+2021-10-07 14:17:49,514 DEBUG navigating to url
+2021-10-07 14:17:49,735 INFO Window is maximized
+2021-10-07 14:17:52,684 INFO Logged In Successfully
+2021-10-07 14:17:55,906 INFO Product successfully searched
+2021-10-07 14:17:58,435 INFO product added to wislist
+2021-10-07 14:19:15,509 INFO Configured
+2021-10-07 14:19:43,641 DEBUG navigating to url
+2021-10-07 14:19:43,832 INFO Window is maximized
+2021-10-07 14:19:46,557 INFO Logged In Successfully
+2021-10-07 14:19:49,243 INFO Product successfully searched
+2021-10-07 14:19:52,399 INFO product added to wislist
+2021-10-07 14:55:46,299 INFO Configured
+2021-10-07 14:56:17,870 DEBUG navigating to url
+2021-10-07 14:56:18,224 INFO Window is maximized
+2021-10-07 14:56:22,185 INFO Logged In Successfully
+2021-10-07 14:56:25,491 INFO Product successfully searched
+2021-10-07 14:56:29,303 INFO product added to wislist
+2021-10-07 14:57:06,912 INFO Configured
+2021-10-07 14:57:14,540 DEBUG navigating to url
+2021-10-07 14:57:14,701 INFO Window is maximized
+2021-10-07 14:57:18,026 INFO Logged In Successfully
+2021-10-07 14:57:20,520 INFO Product successfully searched
+2021-10-07 14:57:23,619 INFO product added to wislist
+2021-10-07 15:21:09,560 INFO Configured
+2021-10-07 15:21:16,703 DEBUG navigating to url
+2021-10-07 15:21:16,850 INFO Window is maximized
+2021-10-07 15:21:22,896 INFO Logged In Successfully
+2021-10-07 15:21:26,451 INFO Product successfully searched
+2021-10-07 15:21:30,906 INFO product added to wislist
+2021-10-07 15:22:38,453 INFO Configured
+2021-10-07 15:22:45,551 DEBUG navigating to url
+2021-10-07 15:22:45,697 INFO Window is maximized
+2021-10-07 15:22:49,191 INFO Logged In Successfully
+2021-10-07 15:22:52,680 INFO Product successfully searched
+2021-10-07 15:22:56,433 INFO product added to wislist
+2021-10-07 15:23:25,745 INFO Configured
+2021-10-07 15:23:33,082 DEBUG navigating to url
+2021-10-07 15:23:33,318 INFO Window is maximized
+2021-10-07 15:23:36,534 INFO Logged In Successfully
+2021-10-07 15:23:39,274 INFO Product successfully searched
+2021-10-07 15:23:44,106 INFO product added to wislist
+2021-10-07 15:26:14,481 INFO Configured
+2021-10-07 15:26:21,323 DEBUG navigating to url
+2021-10-07 15:26:21,466 INFO Window is maximized
+2021-10-07 15:26:25,045 INFO Logged In Successfully
+2021-10-07 15:26:29,164 INFO Product successfully searched
+2021-10-07 15:26:33,126 INFO product added to wislist
+2021-10-07 15:33:39,865 INFO Configured
+2021-10-07 15:33:47,371 DEBUG navigating to url
+2021-10-07 15:33:47,544 INFO Window is maximized
+2021-10-07 15:33:50,878 INFO Logged In Successfully
+2021-10-07 15:33:53,757 INFO Product successfully searched
+2021-10-07 15:33:56,792 INFO product added to wislist
+2021-10-07 15:34:35,724 INFO Configured
+2021-10-07 15:34:43,228 DEBUG navigating to url
+2021-10-07 15:34:43,453 INFO Window is maximized
+2021-10-07 15:34:46,486 INFO Logged In Successfully
+2021-10-07 15:34:50,216 INFO Product successfully searched
+2021-10-07 15:34:54,304 INFO product added to wislist
+2021-10-07 15:35:09,465 INFO Configured
+2021-10-07 15:35:16,522 DEBUG navigating to url
+2021-10-07 15:35:16,702 INFO Window is maximized
+2021-10-07 15:40:10,637 INFO Configured
+2021-10-07 15:40:16,861 DEBUG navigating to url
+2021-10-07 15:40:16,999 INFO Window is maximized
+2021-10-07 15:40:20,315 INFO Logged In Successfully
+2021-10-07 15:40:23,286 INFO Product successfully searched
+2021-10-07 15:40:48,666 INFO Configured
+2021-10-07 15:40:55,217 DEBUG navigating to url
+2021-10-07 15:40:55,387 INFO Window is maximized
+2021-10-07 15:40:58,714 INFO Logged In Successfully
+2021-10-07 15:41:01,343 INFO Product successfully searched
+2021-10-07 15:41:05,624 INFO product added to wislist
+2021-10-07 15:41:24,893 INFO Configured
+2021-10-07 15:41:31,685 DEBUG navigating to url
+2021-10-07 15:41:31,845 INFO Window is maximized
+2021-10-07 15:41:35,505 INFO Logged In Successfully
+2021-10-07 15:41:38,410 INFO Product successfully searched
+2021-10-07 15:41:41,415 INFO product added to wislist
+2021-10-07 15:42:00,016 INFO Configured
+2021-10-07 15:42:06,369 DEBUG navigating to url
+2021-10-07 15:42:06,527 INFO Window is maximized
+2021-10-07 15:42:09,926 INFO Logged In Successfully
+2021-10-07 15:42:12,603 INFO Product successfully searched
+2021-10-07 15:42:15,852 INFO product added to wislist
+2021-10-07 15:42:43,895 INFO Configured
+2021-10-07 15:42:50,045 DEBUG navigating to url
+2021-10-07 15:42:50,207 INFO Window is maximized
+2021-10-07 15:42:53,510 INFO Logged In Successfully
+2021-10-07 15:42:56,408 INFO Product successfully searched
+2021-10-07 15:42:59,253 INFO product added to wislist
+2021-10-07 15:43:21,383 INFO Configured
+2021-10-07 15:43:27,847 DEBUG navigating to url
+2021-10-07 15:43:28,010 INFO Window is maximized
+2021-10-07 15:43:31,577 INFO Logged In Successfully
